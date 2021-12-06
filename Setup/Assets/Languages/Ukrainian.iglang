@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageGlass>
+  <Language>
+    <Info langCode="uk-UA" langName="Українська" author="Анонімус" description="Ukrainian" minVersion="8.3.0.0" isRightToLeftLayout="No"/>
+    <Content>
+      <Item key="_IncompatibleConfigs" value="Деякі налаштування несумісні з вашим ImageGlass {0}. Рекомендуємо оновити їх перед продовженням.&#10;&#10;— Натисніть &quot;Так&quot;, щоб дізнатися про зміни.&#10;— Натисніть &quot;Ні&quot;, щоб запустити ImageGlass з налаштуваннями за замовчуванням."/>
+      <Item key="_.ImageOrderBy._Name" value="Ім'я (за замовчуванням)"/>
+      <Item key="_.ImageOrderBy._Length" value="Розмір"/>
+      <Item key="_.ImageOrderBy._CreationTime" value="Час створення"/>
+      <Item key="_.ImageOrderBy._LastAccessTime" value="Час останнього доступу"/>
+      <Item key="_.ImageOrderBy._LastWriteTime" value="Час останнього запису"/>
+      <Item key="_.ImageOrderBy._Extension" value="Тип"/>
+      <Item key="_.ImageOrderBy._Random" value="Випадковий"/>
+      <Item key="_.ImageOrderType._Asc" value="За зростанням"/>
+      <Item key="_.ImageOrderType._Desc" value="За спаданням"/>
+      <Item key="_.AfterOpeningEditAppAction._Nothing" value="Залишити ImageGlass"/>
+      <Item key="_.AfterOpeningEditAppAction._Minimize" value="Згорнути ImageGlass"/>
+      <Item key="_.AfterOpeningEditAppAction._Close" value="Закрити"/>
+      <Item key="frmMain.mnuMainFile" value="Файл"/>
+      <Item key="frmMain.mnuMainOpenFile" value="Відкрити файл ..."/>
+      <Item key="frmMain.mnuMainOpenImageData" value="Відкрити зображення з буферу обміну"/>
+      <Item key="frmMain.mnuMainNewWindow" value="Відкрити нове вікно"/>
+      <Item key="frmMain.mnuMainNewWindow._Error" value="Неможливо відкрити нове вікно, дозволено лише один екземпляр програми"/>
+      <Item key="frmMain.mnuSaveImage" value="Зберегти зображення"/>
+      <Item key="frmMain.mnuMainSaveAs" value="Зберегти зображення як ..."/>
+      <Item key="frmMain.mnuMainRefresh" value="Оновити"/>
+      <Item key="frmMain.mnuMainReloadImage" value="Оновити зображення"/>
+      <Item key="frmMain.mnuMainReloadImageList" value="Перезавантажити список зображень"/>
+      <Item key="frmMain.mnuOpenWith" value="Відкрити за допомогою ..."/>
+      <Item key="frmMain.mnuMainEditImage" value="Редагувати зображення {0} ..."/>
+      <Item key="frmMain.mnuMainPrint" value="Друк ..."/>
+      <Item key="frmMain.mnuMainNavigation" value="Навігація"/>
+      <Item key="frmMain.mnuMainViewNext" value="Наступне зображення"/>
+      <Item key="frmMain.mnuMainViewNext.Shortcut" value="Стрілка праворуч / PageDown"/>
+      <Item key="frmMain.mnuMainViewPrevious" value="Попереднє зображення"/>
+      <Item key="frmMain.mnuMainViewPrevious.Shortcut" value="Стрілка ліворуч / PageUp"/>
+      <Item key="frmMain.mnuMainGoto" value="Перейти до ..."/>
+      <Item key="frmMain.mnuMainGotoFirst" value="Перейти до першого файлу"/>
+      <Item key="frmMain.mnuMainGotoLast" value="Перейти до останнього файлу"/>
+      <Item key="frmMain.mnuMainNextPage" value="Наступна сторінка"/>
+      <Item key="frmMain.mnuMainPrevPage" value="Попередня сторінка"/>
+      <Item key="frmMain.mnuMainFirstPage" value="До першої сторінки"/>
+      <Item key="frmMain.mnuMainLastPage" value="До останньої сторінки"/>
+      <Item key="frmMain.mnuMainZoom" value="Масштабування"/>
+      <Item key="frmMain.mnuMainZoomIn" value="Збільшити"/>
+      <Item key="frmMain.mnuMainZoomOut" value="Зменшити"/>
+      <Item key="frmMain.mnuCustomZoom" value="Користувацький масштаб ..."/>
+      <Item key="frmMain.mnuCustomZoom._Text" value="Введіть нове значення масштабування"/>
+      <Item key="frmMain.mnuMainScaleToFit" value="Зображення за розміром вікна"/>
+      <Item key="frmMain.mnuMainScaleToFill" value="Заповнити вікно"/>
+      <Item key="frmMain.mnuMainActualSize" value="Масштаб 100%"/>
+      <Item key="frmMain.mnuMainLockZoomRatio" value="Зафіксувати масштаб"/>
+      <Item key="frmMain.mnuMainAutoZoom" value="Автоматичне масштабування"/>
+      <Item key="frmMain.mnuMainScaleToWidth" value="Масштаб за шириною"/>
+      <Item key="frmMain.mnuMainScaleToHeight" value="Масштаб за висотою"/>
+      <Item key="frmMain.mnuMainImage" value="Зображення"/>
+      <Item key="frmMain.mnuMainChannels" value="Перегляд каналів"/>
+      <Item key="frmMain.mnuMainChannels._All" value="Всі"/>
+      <Item key="frmMain.mnuMainChannels._Red" value="Червоний"/>
+      <Item key="frmMain.mnuMainChannels._Green" value="Зелений"/>
+      <Item key="frmMain.mnuMainChannels._Blue" value="Синій"/>
+      <Item key="frmMain.mnuMainChannels._Black" value="Чорний"/>
+      <Item key="frmMain.mnuMainChannels._Alpha" value="Альфа (прозорість)"/>
+      <Item key="frmMain.mnuLoadingOrder" value="Порядок перегляду"/>
+      <Item key="frmMain.mnuMainRotateLeft" value="Повернути проти часової стрілки"/>
+      <Item key="frmMain.mnuMainRotateRight" value="Повернути за часовою стрілкою"/>
+      <Item key="frmMain.mnuMainFlipHorz" value="Відобразити горизонтально"/>
+      <Item key="frmMain.mnuMainFlipVert" value="Відобразити вертикально"/>
+      <Item key="frmMain.mnuMainRename" value="Перейменувати зображення ..."/>
+      <Item key="frmMain.mnuMainMoveToRecycleBin" value="Видалити до кошика"/>
+      <Item key="frmMain.mnuMainDeleteFromHardDisk" value="Видалити назавжди"/>
+      <Item key="frmMain.mnuMainExtractPages" value="Витягнути кадри з зображення ({0} шт.) ..."/>
+      <Item key="frmMain.mnuMainStartStopAnimating" value="ПОЧАТИ / ЗУПИНИТИ анімацію зображення"/>
+      <Item key="frmMain.mnuMainSetAsDesktop" value="Зробити фоновим зображенням робочого столу"/>
+      <Item key="frmMain.mnuMainSetAsLockImage" value="Зробити фоновим зображенням екрану блокування"/>
+      <Item key="frmMain.mnuMainImageLocation" value="Відкрити місце зберігання файлу"/>
+      <Item key="frmMain.mnuMainImageProperties" value="Властивості файлу"/>
+      <Item key="frmMain.mnuMainClipboard" value="Буфер обміну"/>
+      <Item key="frmMain.mnuMainCopy" value="Копіювати файл"/>
+      <Item key="frmMain.mnuMainCopyImageData" value="Копіювати зображення"/>
+      <Item key="frmMain.mnuMainCut" value="Вирізати файл"/>
+      <Item key="frmMain.mnuMainCopyImagePath" value="Копіювати шлях до файлу"/>
+      <Item key="frmMain.mnuMainClearClipboard" value="Очистити буфір обміну"/>
+      <Item key="frmMain.mnuWindowFit" value="Вікно за розміром зображення"/>
+      <Item key="frmMain.mnuMainFullScreen" value="Повноекранний режим"/>
+      <Item key="frmMain.mnuFrameless" value="Приховати заголовок та рамку вікна"/>
+      <Item key="frmMain.mnuMainSlideShow" value="Презентація"/>
+      <Item key="frmMain.mnuMainSlideShowStart" value="ПОЧАТИ презентацію"/>
+      <Item key="frmMain.mnuMainSlideShowPause" value="ЗУПИНИТИ / ПОНОВИТИ презентацію"/>
+      <Item key="frmMain.mnuMainSlideShowExit" value="ВИХІД з режиму презентації"/>
+      <Item key="frmMain.mnuMainShare" value="Поділитися ..."/>
+      <Item key="frmMain.mnuMainLayout" value="Елементи керування"/>
+      <Item key="frmMain.mnuMainToolbar" value="Панель інструментів"/>
+      <Item key="frmMain.mnuMainThumbnailBar" value="Панель ескізів"/>
+      <Item key="frmMain.mnuMainCheckBackground" value="Фон (сплошний / прозорий)"/>
+      <Item key="frmMain.mnuMainAlwaysOnTop" value="Закріпити поверх всіх вікон"/>
+      <Item key="frmMain.mnuMainTools" value="Інструменти"/>
+      <Item key="frmMain.mnuMainColorPicker" value="Пипетка"/>
+      <Item key="frmMain.mnuMainPageNav" value="Сторінки"/>
+      <Item key="frmMain.mnuMainCrop" value="Обрізка"/>
+      <Item key="frmMain.mnuExifTool" value="ExifTool"/>
+      <Item key="frmMain.mnuMainSettings" value="Налаштування ..."/>
+      <Item key="frmMain.mnuMainHelp" value="Допомога"/>
+      <Item key="frmMain.mnuMainAbout" value="Про програму"/>
+      <Item key="frmMain.mnuMainFirstLaunch" value="Конфігуратор первинних налаштувань ..."/>
+      <Item key="frmMain.mnuMainCheckForUpdate._NoUpdate" value="Перевірити оновлення ..."/>
+      <Item key="frmMain.mnuMainCheckForUpdate._NewVersion" value="Наявна нова версія!"/>
+      <Item key="frmMain.mnuMainReportIssue" value="Повідомити про проблему ..."/>
+      <Item key="frmMain.mnuMainExitApplication" value="Вийти з ImageGlass"/>
+      <Item key="frmMain.picMain._ErrorText" value="Програма не може відкрити це зображення,&#10; файл пошкодженно або формат не підтримується"/>
+      <Item key="frmMain._ImageNotExist" value="Програма не може знайти зображення"/>
+      <Item key="frmMain.btnMenu" value="Головне меню"/>
+      <Item key="frmMain._OpenFileDialog" value="Всі підтримуванні формати"/>
+      <Item key="frmMain._Files" value="ф."/>
+      <Item key="frmMain._Pages" value="стор."/>
+      <Item key="frmMain._ImageData" value="Данні зображення"/>
+      <Item key="frmMain._RenameDialogText" value="Перейменувати"/>
+      <Item key="frmMain._RenameDialog" value="Введіть нове им'я файлу:"/>
+      <Item key="frmMain._GotoDialogText" value="Введіть індекс зображення, щоб перглянути його,&#10;та натисніть &quot;ENTER&quot;"/>
+      <Item key="frmMain._DeleteDialogText" value="Видалити файл &quot;{0}&quot; ?"/>
+      <Item key="frmMain._DeleteDialogTitle" value="Підтвердити"/>
+      <Item key="frmMain._ExtractPageText" value="Витягування кадрів зображення.&#10;Будь ласка, виберіть теку для витягування:"/>
+      <Item key="frmMain._FullScreenMessage" value="Натисніть &quot;{0}&quot; для виходу з повноекранного режиму."/>
+      <Item key="frmMain._SlideshowMessage" value="Натисніть &quot;Esc&quot; щоб вийти з режиму презентації.&#10;Права кнопка миші, щоб відкрити контекстне меню."/>
+      <Item key="frmMain._SlideshowMessagePause" value="Призупинити показ"/>
+      <Item key="frmMain._SlideshowMessageResume" value="Поновити показ"/>
+      <Item key="frmMain._CopyFileText" value="Файлів скопійовано {0} до буферу обміну"/>
+      <Item key="frmMain._CutFileText" value="Файлів вирізано {0} до буферу обміну"/>
+      <Item key="frmMain._CopyImageData" value="Зображення скопійовано до буферу обміну"/>
+      <Item key="frmMain._ClearClipboard" value="Буфер обміну було очишено"/>
+      <Item key="frmMain._SaveChanges" value="Збереження змін ..."/>
+      <Item key="frmMain._SaveImage" value="Файл було успішно збережено в теці:&#10;{0}"/>
+      <Item key="frmMain._SavingImage" value="Збереження зображення ..."/>
+      <Item key="frmMain._SaveImageError" value="Помилка збереження файлу в теці:&#10;{0}"/>
+      <Item key="frmMain._Loading" value="Завантаження ..."/>
+      <Item key="frmMain._FirstItemOfList" value="Перейти до першого зображення"/>
+      <Item key="frmMain._LastItemOfList" value="Перейти до останнього зображення"/>
+      <Item key="frmMain._CannotRotateAnimatedFile" value="Поворот анімованих зображень&#10;не підтримується программою ImageGlass"/>
+      <Item key="frmMain._SetLockImage_Error" value="Виникла помилка під час налаштування зображення для екрану блокування"/>
+      <Item key="frmMain._SetLockImage_Success" value="Зображення для екрану блокування було успішно встановлено"/>
+      <Item key="frmMain._SetBackground_Error" value="Виникла помилка під час налаштування фону робочого стола"/>
+      <Item key="frmMain._SetBackground_Success" value="Фон робочого стола було успішно встановленно"/>
+      <Item key="frmMain._PageExtractComplete" value="Витягування кадрів завершено"/>
+      <Item key="frmMain._Frameless" value="Утримуйте &quot;Shift&quot;, щоб перемістити вікно."/>
+      <Item key="frmMain._InvalidImageClipboardData" value="В буфері обміну відсутні зображення."/>
+      <Item key="frmAbout.lblSlogant" value="Легкий універсальний засіб перегляду зображень"/>
+      <Item key="frmAbout.lblInfo" value="Інформація"/>
+      <Item key="frmAbout.lblComponent" value="Компоненти"/>
+      <Item key="frmAbout.lblReferences" value="Додаткові матеріали"/>
+      <Item key="frmAbout.lblVersion" value="Версія: {0}"/>
+      <Item key="frmAbout.lblInfoContact" value="Контакти"/>
+      <Item key="frmAbout.lblSoftwareUpdate" value="Оновлення програми"/>
+      <Item key="frmAbout.lnkCheckUpdate" value="Перевірити оновлення ..."/>
+      <Item key="frmAbout._Text" value="Про програму"/>
+      <Item key="frmAbout._PortableText" value="[Портативний]"/>
+      <Item key="frmSetting._Text" value="Налаштування"/>
+      <Item key="frmSetting.btnSave" value="Зберегти"/>
+      <Item key="frmSetting.btnCancel" value="Відмінити"/>
+      <Item key="frmSetting.btnApply" value="Застосувати"/>
+      <Item key="frmSetting.lblGeneral" value="Головні налаштування"/>
+      <Item key="frmSetting.lblImage" value="Зображення"/>
+      <Item key="frmSetting.lblEdit" value="Редагування"/>
+      <Item key="frmSetting.lblFileTypeAssoc" value="Асоціації файлів"/>
+      <Item key="frmSetting.lblToolbar" value="Панель інструментів"/>
+      <Item key="frmSetting.lblLanguage" value="Language"/>
+      <Item key="frmSetting.lblTheme" value="Теми оформлення"/>
+      <Item key="frmSetting.lblKeyboard" value="Клавіатура"/>
+      <Item key="frmSetting.lblHeadStartup" value="Налаштування запуску"/>
+      <Item key="frmSetting.chkWelcomePicture" value="Показувати вітальне зображення"/>
+      <Item key="frmSetting.chkLastSeenImage" value="Показувати останній відкритий файл"/>
+      <Item key="frmSetting.chkShowToolBar" value="Показувати панель інструментів"/>
+      <Item key="frmSetting.lblHeadConfigDir" value="Тека поточної конфігурації"/>
+      <Item key="frmSetting.lblHeadViewer" value="Налаштування перегляду"/>
+      <Item key="frmSetting.chkShowScrollbar" value="Відобразити смуги прокручування"/>
+      <Item key="frmSetting.chkShowNavButtons" value="Відобразити додаткові стрілки навігації ліворуч / праворуч"/>
+      <Item key="frmSetting.chkDisplayBasename" value="Не відображати шлях до файлу в строці заголовку"/>
+      <Item key="frmSetting.chkShowCheckerboardOnlyImage" value="Відобразити фон прозорості (α-канал) тільки в області зображення"/>
+      <Item key="frmSetting.chkUseTouchGesture" value="Увімкнути підтримку сенсорних жестів"/>
+      <Item key="frmSetting.lblBackGroundColor" value="Колір фону в області зображення:"/>
+      <Item key="frmSetting.lnkResetBackgroundColor" value="Скидання"/>
+      <Item key="frmSetting.lblHeadOthers" value="Інші налаштування"/>
+      <Item key="frmSetting.chkAutoUpdate" value="Перевіряти оновлення автоматично"/>
+      <Item key="frmSetting.chkAllowMultiInstances" value="Дозволити декілька екземплярів програми"/>
+      <Item key="frmSetting.chkESCToQuit" value="Дозволити натискання &quot;Esc&quot; для выходу з програми"/>
+      <Item key="frmSetting.chkConfirmationDelete" value="Відобразити діалогове вікно підтвердження видалення файлу"/>
+      <Item key="frmSetting.chkCenterWindowFit" value="Автоматично центрувати вікно на екрані в режимі вікна за розміром зображення"/>
+      <Item key="frmSetting.chkShowToast" value="Показувати вспливаючі підказки"/>
+      <Item key="frmSetting.lblHeadImageLoading" value="Параметри завнтаження зображень"/>
+      <Item key="frmSetting.chkFindChildFolder" value="Шукати файли у вкладених теках"/>
+      <Item key="frmSetting.chkShowHiddenImages" value="Показувати приховані файли"/>
+      <Item key="frmSetting.chkLoopViewer" value="Повторювати презентацію з першого файлу при досягнені кінця"/>
+      <Item key="frmSetting.chkIsCenterImage" value="Центрувати зображення в засобі перегляду"/>
+      <Item key="frmSetting.chkIsUseRawThumbnail" value="Використовувати встроєні ескізи (JPEG-превью) для RAW файлів"/>
+      <Item key="frmSetting.lblImageLoadingOrder" value="Порядок читання файлів:"/>
+      <Item key="frmSetting.chkUseFileExplorerSortOrder" value="Використовувати порядок сортування такий самий, як и в провіднику за можливістю"/>
+      <Item key="frmSetting.chkGroupByDirectory" value="Групувати зображення за теками"/>
+      <Item key="frmSetting.lblImageBoosterCachedCount" value="Кількість файлів, шо кешовані ImageBooster (в одній теці):"/>
+      <Item key="frmSetting.lblColorManagement" value="Керування коліром"/>
+      <Item key="frmSetting.chkApplyColorProfile" value="Примінити і для зображень без внутрішнього кольорового профілю"/>
+      <Item key="frmSetting.lblColorProfile" value="Кольоровий профіль:"/>
+      <Item key="frmSetting.lnkColorProfileBrowse" value="Огляд ..."/>
+      <Item key="frmSetting.cmbColorProfile._None" value="Відсутній"/>
+      <Item key="frmSetting.cmbColorProfile._CustomProfileFile" value="Налаштувати ..."/>
+      <Item key="frmSetting.lblHeadMouseWheelActions" value="Дія при прокручуванні колеса миші"/>
+      <Item key="frmSetting.lblMouseWheel" value="Колесо миші"/>
+      <Item key="frmSetting.lblMouseWheelAlt" value="&quot;Alt&quot; + колесо миші"/>
+      <Item key="frmSetting.lblMouseWheelCtrl" value="&quot;Ctrl&quot; + колесо миші"/>
+      <Item key="frmSetting.lblMouseWheelShift" value="&quot;Shift&quot; + колесо миші"/>
+      <Item key="frmSetting.cmbMouseWheel._DoNothing" value="Відсутня дія"/>
+      <Item key="frmSetting.cmbMouseWheel._Zoom" value="Масштабування"/>
+      <Item key="frmSetting.cmbMouseWheel._ScrollVertically" value="Вертикальне прокручування"/>
+      <Item key="frmSetting.cmbMouseWheel._ScrollHorizontally" value="Горизонтальне прокручування"/>
+      <Item key="frmSetting.cmbMouseWheel._BrowseImages" value="Попереднє / наступне"/>
+      <Item key="frmSetting.lblHeadZooming" value="Масштабування"/>
+      <Item key="frmSetting.lblGeneral_ZoomOptimization" value="Оптимізація масштабу:"/>
+      <Item key="frmSetting.cmbZoomOptimization._Auto" value="Авто (низька якість за сусіднім пікселем)"/>
+      <Item key="frmSetting.cmbZoomOptimization._Low" value="Низька якість"/>
+      <Item key="frmSetting.cmbZoomOptimization._High" value="Висока якість"/>
+      <Item key="frmSetting.cmbZoomOptimization._Bilinear" value="Білінійне"/>
+      <Item key="frmSetting.cmbZoomOptimization._Bicubic" value="Бікубічне"/>
+      <Item key="frmSetting.cmbZoomOptimization._NearestNeighbor" value="За сусіднім пікселем"/>
+      <Item key="frmSetting.cmbZoomOptimization._HighQualityBilinear" value="Білінійне (висока якість)"/>
+      <Item key="frmSetting.cmbZoomOptimization._HighQualityBicubic" value="Бікубічне (висока якість)"/>
+      <Item key="frmSetting.lblZoomLevels" value="Рівні масштабування:"/>
+      <Item key="frmSetting.txtZoomLevels._Error" value="Виникла помилка при оновленні рівнів масштабування. Повідомлення про помилку:&#10;&#10;{0}"/>
+      <Item key="frmSetting.lblHeadThumbnailBar" value="Панель ескизів"/>
+      <Item key="frmSetting.chkThumbnailVertical" value="Відобразити панель ескизів праворуч"/>
+      <Item key="frmSetting.chkShowThumbnailScrollbar" value="Показувати смугу прокручування панелі ескизів"/>
+      <Item key="frmSetting.lblGeneral_ThumbnailSize" value="Розмір ескізу (в пікселях):"/>
+      <Item key="frmSetting.lblHeadSlideshow" value="Презентація"/>
+      <Item key="frmSetting.chkLoopSlideshow" value="Повернення показу до першого файлу при досягненні кінця списку"/>
+      <Item key="frmSetting.chkShowSlideshowCountdown" value="Показувати зворотній відлік часу в режимі показу презентації"/>
+      <Item key="frmSetting.chkRandomSlideshowInterval" value="Використовувати випадковий інтервал"/>
+      <Item key="frmSetting.lblSlideshowInterval" value="Часовий інтервал показу зображень: {0}"/>
+      <Item key="frmSetting.lblSlideshowIntervalTo" value="до"/>
+      <Item key="frmSetting.lblHeadFullScreen" value="Повноекранний режим"/>
+      <Item key="frmSetting.chkHideToolbarInFullScreen" value="Приховати панель інструментів"/>
+      <Item key="frmSetting.chkHideThumbnailBarInFullScreen" value="Приховати панель ескизів"/>
+      <Item key="frmSetting.chkSaveOnRotate" value="Перезаписувати файл після редагування"/>
+      <Item key="frmSetting.lblSelectAppForEdit" value="Вкажіть свої застосунки для редагування зображень"/>
+      <Item key="frmSetting.lblAfterEditingApp" value="Після відкриття в редакторі:"/>
+      <Item key="frmSetting.lblImageQuality" value="Якість зображення:"/>
+      <Item key="frmSetting.btnEditEditExt" value="Змінити ..."/>
+      <Item key="frmSetting.btnEditResetExt" value="Повернути налаштування"/>
+      <Item key="frmSetting.btnEditEditAllExt" value="Змінити все ..."/>
+      <Item key="frmSetting._allExtensions" value="Всі розширення"/>
+      <Item key="frmSetting.lvImageEditing.clnFileExtension" value="Розширення файлу"/>
+      <Item key="frmSetting.lvImageEditing.clnAppName" value="Ім'я застосунку"/>
+      <Item key="frmSetting.lvImageEditing.clnAppPath" value="Шлях до застосунку"/>
+      <Item key="frmSetting.lvImageEditing.clnAppArguments" value="Параметри застосунку"/>
+      <Item key="frmSetting.chkSaveModifyDate" value="Зберегти дату змінення при збереженні зображення"/>
+      <Item key="frmSetting.lblSupportedExtension" value="Підтримуванні формати: {0}"/>
+      <Item key="frmSetting.lnkOpenFileAssoc" value="Програми за замовчуванням"/>
+      <Item key="frmSetting.btnAddNewExt" value="Додати ..."/>
+      <Item key="frmSetting.btnRegisterExt" value="Використовувати за замовчуванням"/>
+      <Item key="frmSetting.btnUnregisterExt" value="Відмінити реєстрацію розширень"/>
+      <Item key="frmSetting.btnDeleteExt" value="Видалити"/>
+      <Item key="frmSetting.btnResetExt" value="Повернути налаштування"/>
+      <Item key="frmSetting._RegisterWebToApp_Error" value="Виникла помилка при реєстрації функції прив'язки до веб-застосунку."/>
+      <Item key="frmSetting._RegisterAppExtensions_Error" value="Не вдалося зареєструвати розширення файлів для застосунку ImageGlass"/>
+      <Item key="frmSetting._RegisterAppExtensions_Success" value="Всі розширення файлів успішно зареєстровані!&#10;&#10;Щоб встановити ImageGlass в якості програми перегляду фотографий за замовчуванням, будь ласка відкрийте &quot;Параметри Windows → Програми за замовчуванням&quot;, та вручну виберіть застосунок ImageGlass в розділі &quot;Перегляд фотографій&quot;."/>
+      <Item key="frmSetting._UnregisterAppExtensions_Error" value="Не вдалося видалити зареєстровані розширення файлів з ImageGlass"/>
+      <Item key="frmSetting._UnregisterAppExtensions_Success" value="Всі розширення файлів успішно зареєстровані!"/>
+      <Item key="frmSetting.lblToolbarPosition" value="Положення панелі інструментів:"/>
+      <Item key="frmSetting.lblToolbarIconHeight" value="Розмір іконок панелі інструментів:"/>
+      <Item key="frmSetting.cmbToolbarPosition._Top" value="Вгорі"/>
+      <Item key="frmSetting.cmbToolbarPosition._Bottom" value="Знизу"/>
+      <Item key="frmSetting._separator" value="Розподілювач"/>
+      <Item key="frmSetting.lblToolbar._Tooltip" value="Налаштування панелі інструментів"/>
+      <Item key="frmSetting.lblUsedBtns" value="Поточні кнопки:"/>
+      <Item key="frmSetting.lblAvailBtns" value="Доступні кнопки:"/>
+      <Item key="frmSetting.btnMoveDown._Tooltip" value="Перемістити вниз"/>
+      <Item key="frmSetting.btnMoveLeft._Tooltip" value="Видалити обрані кнопки с панелі інструментів"/>
+      <Item key="frmSetting.btnMoveRight._Tooltip" value="Додати обрані кнопки на панель інструментів"/>
+      <Item key="frmSetting.btnMoveUp._Tooltip" value="Перемістити вгору"/>
+      <Item key="frmSetting.chkHorzCenterToolbarBtns" value="Горизонтально центрувати панель інструментів відносно вікна"/>
+      <Item key="frmSetting.chkHideTooltips" value="Не відображувати підказки панелі інструментів"/>
+      <Item key="frmSetting.chkColorUseRGBA" value="&quot;RGB&quot; формат + α-канал"/>
+      <Item key="frmSetting.chkColorUseHEXA" value="&quot;HEX&quot; формат + α-канал"/>
+      <Item key="frmSetting.chkColorUseHSLA" value="&quot;HSL&quot; формат + α-канал"/>
+      <Item key="frmSetting.chkColorUseHSVA" value="&quot;HSV&quot; формат + α-канал"/>
+      <Item key="frmSetting.lblDefaultColorCode" value="Формат коду кольору за замовчуванням при копіюванні"/>
+      <Item key="frmSetting.chkShowPageNavAuto" value="   Автоматично відображувати інструмент &quot;Сторінки&quot;&#10;   (окремо для багатосторінкових зображень)"/>
+      <Item key="frmSetting.chkExifToolAlwaysOnTop" value="вікно &quot;ExifTool&quot; завжди поверх"/>
+      <Item key="frmSetting.lnkSelectExifTool" value="Обрати файл &quot;ExifTool&quot;"/>
+      <Item key="frmSetting.lnkSelectExifTool._NotFound" value="&quot;ExifTool&quot; не знайдено:&#10;{0}"/>
+      <Item key="frmSetting.lblExifToolCommandArgs" value="Аргументи команди:"/>
+      <Item key="frmSetting.lblExifToolCommandPreview" value="Попередній перегляд команди:"/>
+      <Item key="frmSetting.lblLanguageText" value="Встановлені мови:"/>
+      <Item key="frmSetting.lnkRefresh" value="Оновити список"/>
+      <Item key="frmSetting.lblLanguageWarning" value="Цей мовний пакет може бути несумісний з версією {0}"/>
+      <Item key="frmSetting.lnkInstallLanguage" value="→ Встановити мовний пакет (*.iglang) ..."/>
+      <Item key="frmSetting.lnkCreateNew" value="→ Створити новый мовний пакет ..."/>
+      <Item key="frmSetting.lnkEdit" value="→ Редагувати обраний мовний пакет ..."/>
+      <Item key="frmSetting.lnkGetMoreLanguage" value="→ Отримати додаткові мовні пакети ..."/>
+      <Item key="frmSetting.lblInstalledThemes" value="Встановлено тем: {0}"/>
+      <Item key="frmSetting.lnkThemeDownload" value="→ Завантажити ще теми ..."/>
+      <Item key="frmSetting.btnThemeRefresh" value="Оновити"/>
+      <Item key="frmSetting.btnThemeInstall" value="Встановити ..."/>
+      <Item key="frmSetting.btnThemeUninstall" value="Видалити тему"/>
+      <Item key="frmSetting.btnThemeSaveAs" value="Зберегти як ..."/>
+      <Item key="frmSetting.btnThemeFolderOpen" value="Відкрити теку с темой"/>
+      <Item key="frmSetting.btnThemeApply" value="Застосувати тему"/>
+      <Item key="frmSetting.txtThemeInfo._Name" value="Назва"/>
+      <Item key="frmSetting.txtThemeInfo._Version" value="Версія"/>
+      <Item key="frmSetting.txtThemeInfo._Author" value="Автор"/>
+      <Item key="frmSetting.txtThemeInfo._Email" value="Email"/>
+      <Item key="frmSetting.txtThemeInfo._Website" value="Сайт"/>
+      <Item key="frmSetting.txtThemeInfo._Compatibility" value="Сумісність"/>
+      <Item key="frmSetting.txtThemeInfo._Description" value="Опис"/>
+      <Item key="frmSetting.btnThemeInstall._Success" value="Ваша тема була успішно встановлена!"/>
+      <Item key="frmSetting.btnThemeInstall._Error" value="Не вдалося встановити тему."/>
+      <Item key="frmSetting.btnThemeUninstall._Error" value="Не вдалося видалити тему."/>
+      <Item key="frmSetting.btnThemeSaveAs._Success" value="Тема була збережена в теку:&#10;&#10;{0}"/>
+      <Item key="frmSetting.btnThemeSaveAs._Error" value="Не вдалося зберегти тему."/>
+      <Item key="frmSetting.btnThemeApply._Success" value="Тему успішно застосовано!"/>
+      <Item key="frmSetting.btnThemeApply._Error" value="Не вдалося застовувати обрану тему."/>
+      <Item key="frmSetting.btnKeyReset" value="Повернути налаштування"/>
+      <Item key="frmSetting.lblKeysSpaceBack" value="Пробіл / Backspace"/>
+      <Item key="frmSetting.lblKeysPageUpDown" value="PageUp / PageDown"/>
+      <Item key="frmSetting.lblKeysUpDown" value="Стрілки вгору / вниз"/>
+      <Item key="frmSetting.lblKeysLeftRight" value="Стрілки ліворуч / праворуч"/>
+      <Item key="frmSetting.KeyActions._PrevNextImage" value="Попереднє / наступне"/>
+      <Item key="frmSetting.KeyActions._PanLeftRight" value="Прокручування ліворуч / праворуч"/>
+      <Item key="frmSetting.KeyActions._PanUpDown" value="Прокручування вгору / вниз"/>
+      <Item key="frmSetting.KeyActions._ZoomInOut" value="Збільшити / зменшити"/>
+      <Item key="frmSetting.KeyActions._PauseSlideshow" value="Призупинити показ"/>
+      <Item key="frmSetting.KeyActions._DoNothing" value="Дія відсутня"/>
+      <Item key="frmAddNewFormat.lblFileExtension" value="Розширення файлу"/>
+      <Item key="frmAddNewFormat.btnOK" value="Ok"/>
+      <Item key="frmAddNewFormat.btnClose" value="Закрити"/>
+      <Item key="frmEditApp.lblFileExtension" value="Розширення файлу"/>
+      <Item key="frmEditApp.lblAppName" value="Им'я застосунку"/>
+      <Item key="frmEditApp.lblAppPath" value="Шлях до застосунку"/>
+      <Item key="frmEditApp.lblAppArguments" value="Параметри застосунку"/>
+      <Item key="frmEditApp.btnReset" value="Скидання"/>
+      <Item key="frmEditApp.btnOK" value="Ok"/>
+      <Item key="frmEditApp.btnClose" value="Закрити"/>
+      <Item key="frmEditApp.lblPreviewLabel" value="Попередній перегляд:"/>
+      <Item key="frmFirstLaunch._Text" value="Конфігуратор первинних налаштувань"/>
+      <Item key="frmFirstLaunch._ConfirmCloseProcess" value="ImageGlass повинен завершити всі свої процеси,&#10;щоб застосувати нові налаштування.&#10;&#10;Продовжити?"/>
+      <Item key="frmFirstLaunch.lblStepNumber" value="Крок {0} з {1}"/>
+      <Item key="frmFirstLaunch.btnNextStep" value="Далі"/>
+      <Item key="frmFirstLaunch.btnNextStep._Done" value="Готово!"/>
+      <Item key="frmFirstLaunch.lnkSkip" value="Пропустити й почати використовувати ImageGlass"/>
+      <Item key="frmFirstLaunch.lblLanguage" value="Оберіть мову:"/>
+      <Item key="frmFirstLaunch.lblLayout" value="Оберіть макет:"/>
+      <Item key="frmFirstLaunch.cmbLayout._Standard" value="Користувач"/>
+      <Item key="frmFirstLaunch.cmbLayout._Designer" value="Розробник"/>
+      <Item key="frmFirstLaunch.lblTheme" value="Оберіть тему оформлення:"/>
+      <Item key="frmFirstLaunch.lblDefaultApp" value="Відкривати усе в ImageGlass?"/>
+      <Item key="frmFirstLaunch.btnSetDefaultApp" value="Так"/>
+      <Item key="frmCrop.lblWidth" value="Ширина:"/>
+      <Item key="frmCrop.lblHeight" value="Висота:"/>
+      <Item key="frmCrop.btnSave" value="Зберегти"/>
+      <Item key="frmCrop.btnSaveAs" value="Зберегти ..."/>
+      <Item key="frmCrop.btnCopy" value="Копіювати"/>
+      <Item key="frmCrop.btnReset" value="Скидання"/>
+      <Item key="FrmExifTool.clnProperty" value="Властивості"/>
+      <Item key="FrmExifTool.clnValue" value="Значення"/>
+      <Item key="FrmExifTool.btnCopyValue" value="Копіювати"/>
+      <Item key="FrmExifTool.btnExport" value="Експорт ..."/>
+      <Item key="FrmExifTool.btnClose" value="Закрити"/>
+    </Content>
+  </Language>
+</ImageGlass>
